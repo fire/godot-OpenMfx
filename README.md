@@ -17,8 +17,4 @@ See [LICENSE.md](LICENSE.md).
 
 ## Reference
 
-<p align="center">
-  <img alt="OpenMfx" src="doc/images/openmesheffect.png">
-</p>
-
 The official documentation of the API is located at https://openmesheffect.org
